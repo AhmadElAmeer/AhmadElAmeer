@@ -31,6 +31,7 @@
 | [devtool-commit-message-linter](https://github.com/AhmadElAmeer/devtool-commit-message-linter) | Python | A Conventional Commits linter with compiler-style errors, usable as a git hook, CLI or history checker |
 | [ml-naive-bayes-from-scratch](https://github.com/AhmadElAmeer/ml-naive-bayes-from-scratch) | Python | A Naive Bayes spam filter written from the formulas, matching scikit-learn to within 10⁻¹² |
 | [java-bank-concurrency-sim](https://github.com/AhmadElAmeer/java-bank-concurrency-sim) | Java | A multithreaded bank that reproduces race conditions and deadlocks, detects them, and compares five locking strategies |
+| [java-expression-compiler](https://github.com/AhmadElAmeer/java-expression-compiler) | Java | A compiler for a small typed language: parser, type checker, bytecode VM, verified by differential fuzzing |
 
 Every project has automated tests that run on GitHub Actions, and a README with real measured results.
 
