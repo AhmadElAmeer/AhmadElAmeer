@@ -32,6 +32,7 @@
 | [ml-naive-bayes-from-scratch](https://github.com/AhmadElAmeer/ml-naive-bayes-from-scratch) | Python | A Naive Bayes spam filter written from the formulas, matching scikit-learn to within 10⁻¹² |
 | [java-bank-concurrency-sim](https://github.com/AhmadElAmeer/java-bank-concurrency-sim) | Java | A multithreaded bank that reproduces race conditions and deadlocks, detects them, and compares five locking strategies |
 | [java-expression-compiler](https://github.com/AhmadElAmeer/java-expression-compiler) | Java | A compiler for a small typed language: parser, type checker, bytecode VM, verified by differential fuzzing |
+| [fullstack-study-group-scheduler](https://github.com/AhmadElAmeer/fullstack-study-group-scheduler) | Flask · SQLite · JavaScript | A web app that finds when a study group can meet, from everyone's painted weekly availability |
 
 Every project has automated tests that run on GitHub Actions, and a README with real measured results.
 
