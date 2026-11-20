@@ -33,6 +33,7 @@
 | [java-bank-concurrency-sim](https://github.com/AhmadElAmeer/java-bank-concurrency-sim) | Java | A multithreaded bank that reproduces race conditions and deadlocks, detects them, and compares five locking strategies |
 | [java-expression-compiler](https://github.com/AhmadElAmeer/java-expression-compiler) | Java | A compiler for a small typed language: parser, type checker, bytecode VM, verified by differential fuzzing |
 | [fullstack-study-group-scheduler](https://github.com/AhmadElAmeer/fullstack-study-group-scheduler) | Flask · SQLite · JavaScript | A web app that finds when a study group can meet, from everyone's painted weekly availability |
+| [algorithm-text-diff](https://github.com/AhmadElAmeer/algorithm-text-diff) | C++ | A `diff` tool using Myers' algorithm, checked against GNU diff and patch on real commit history |
 
 Every project has automated tests that run on GitHub Actions, and a README with real measured results.
 
