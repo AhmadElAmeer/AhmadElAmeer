@@ -35,6 +35,7 @@
 | [fullstack-study-group-scheduler](https://github.com/AhmadElAmeer/fullstack-study-group-scheduler) | Flask · SQLite · JavaScript | A web app that finds when a study group can meet, from everyone's painted weekly availability |
 | [algorithm-text-diff](https://github.com/AhmadElAmeer/algorithm-text-diff) | C++ | A `diff` tool using Myers' algorithm, checked against GNU diff and patch on real commit history |
 | [systems-unix-shell](https://github.com/AhmadElAmeer/systems-unix-shell) | C | A Unix shell with pipelines, redirections and job control, tested against dash and in a real terminal |
+| [data-etl-transit-pipeline](https://github.com/AhmadElAmeer/data-etl-transit-pipeline) | Python · SQLite | An ETL pipeline that validates GTFS transit feeds, quarantines bad rows and loads them into SQLite atomically, tested on real feeds and 40 broken ones |
 
 Every project has automated tests that run on GitHub Actions, and a README with real measured results.
 
