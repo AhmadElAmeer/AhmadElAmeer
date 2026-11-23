@@ -36,6 +36,7 @@
 | [algorithm-text-diff](https://github.com/AhmadElAmeer/algorithm-text-diff) | C++ | A `diff` tool using Myers' algorithm, checked against GNU diff and patch on real commit history |
 | [systems-unix-shell](https://github.com/AhmadElAmeer/systems-unix-shell) | C | A Unix shell with pipelines, redirections and job control, tested against dash and in a real terminal |
 | [data-etl-transit-pipeline](https://github.com/AhmadElAmeer/data-etl-transit-pipeline) | Python · SQLite | An ETL pipeline that validates GTFS transit feeds, quarantines bad rows and loads them into SQLite atomically, tested on real feeds and 40 broken ones |
+| [frontend-accessible-components](https://github.com/AhmadElAmeer/frontend-accessible-components) | JavaScript | Tabs, a modal dialog and a combobox built to the WAI-ARIA patterns, tested with 15,000 random key presses against reference models · [live demo](https://ahmadelameer.github.io/frontend-accessible-components/) |
 
 Every project has automated tests that run on GitHub Actions, and a README with real measured results.
 
