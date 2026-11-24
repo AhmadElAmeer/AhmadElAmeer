@@ -37,6 +37,7 @@
 | [systems-unix-shell](https://github.com/AhmadElAmeer/systems-unix-shell) | C | A Unix shell with pipelines, redirections and job control, tested against dash and in a real terminal |
 | [data-etl-transit-pipeline](https://github.com/AhmadElAmeer/data-etl-transit-pipeline) | Python · SQLite | An ETL pipeline that validates GTFS transit feeds, quarantines bad rows and loads them into SQLite atomically, tested on real feeds and 40 broken ones |
 | [frontend-accessible-components](https://github.com/AhmadElAmeer/frontend-accessible-components) | JavaScript | Tabs, a modal dialog and a combobox built to the WAI-ARIA patterns, tested with 15,000 random key presses against reference models · [live demo](https://ahmadelameer.github.io/frontend-accessible-components/) |
+| [backend-auth-service](https://github.com/AhmadElAmeer/backend-auth-service) | Python · Flask · SQLite | An authentication service with scrypt hashing, CSRF-protected sessions, race-free login throttling, password resets and TOTP 2FA, tested with attack simulations and 38 planted security bugs |
 
 Every project has automated tests that run on GitHub Actions, and a README with real measured results.
 
